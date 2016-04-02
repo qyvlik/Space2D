@@ -1,0 +1,10 @@
+module Space2D
+
+singleton Space2D 0.1 Space2D.qml
+Body 0.1 Body.qml                # -1
+
+CircleBody 0.1 CircleBody.qml    # 0
+RectBody 0.1 RectBody.qml        # 4
+PolygonBody 0.1 PolygonBody.qml  # 3
+Space 0.1 Space.qml
+StaticBody 0.1 StaticBody.qml
